@@ -7,7 +7,6 @@
 
 import Foundation
 
-let apiKey: String = "10fa6cc9976a8851815170b63a936492"
 let commonParam: String = "?api_key=\(apiKey)&lang=\(langSpa)"
 //IDIOMAS
 let langSpa: String = "es_ES"
